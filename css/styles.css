@@ -1,0 +1,96 @@
+/* add your css styles here! */
+.fakeimg {
+  height: 200px;
+}
+
+  h2,h5 {
+    color:#00688c;
+  }
+ 
+
+  .navbar-brand img {
+   width: 70px;
+  }
+
+  .nav-item {
+    margin: 0px 15px;
+  }
+
+  .nav-item1 {
+    margin: 0px 300px;
+    margin-top: 25px;
+    margin-left: 100px;
+  }
+
+  .nav-link {
+    margin: 0px 40px;
+    font-size: large;
+    font-weight:500;
+    color: #00688c;
+  }
+
+  .jumbotron {
+   background-image: url("../images/11258-Haleakala\ Sunrise-Maui.jpeg"); 
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    height: calc(60vh - 25px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+ 
+
+  .jumboCopy {
+    width: 70%;
+    min-width: 500px;
+    max-width: 700px;
+    color: white;
+    text-align: center;
+  }
+
+  .cardContainer {
+    margin-top: 20px;
+    text-align: center;
+  }
+  .card {
+    margin: 0 auto;
+  }  
+
+ 
+
+   
+
+  #subscribe {
+    color:black;
+    text-align: center;
+    background-size: cover;
+}
+#subscribe h2 {
+  margin-bottom:30px;
+
+}
+
+#subscribe p{
+  margin-bottom:30px;
+
+}
+
+#subscribe .form-container {
+  padding-top: 400px;
+  padding-bottom: 50px;
+
+
+}
+
+#subscribe form {
+  display: flex;
+  justify-content: center;
+}
+#subscribe input {
+  height:50px;
+  border-radius: 0;
+  width:60%;
+  margin-right:20px !important;
+
+}
+
